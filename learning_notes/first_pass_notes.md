@@ -24,3 +24,4 @@ Date | Section | Video Name | Timestamp | Concept | Code/Tool | Notes |
 2025-09-01 | 4 | Initialising our Bundle Project | N/A | YAML Syntax | YAML | [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) |
 2025-09-01 | 4 | Initialising our Bundle Project | N/A | DAB Configuration | | [DAB Configuration](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/settings) |
 2025-09-01 | 4 | Initialising our Bundle Project | N/A | DAB Configuration Reference | | [DAB Configuration Reference](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/reference) |
+2025-09-01 | 4 | Validating and Deploying the bundle | [0:13] | Validate Bundle before deployment | - ```databricks bundle validate``` | Check root directory specification for PROD profile |
